@@ -1,0 +1,6 @@
+{
+    "MMETSP": "mmetsp_subset.json",
+    "lamprey": "lamprey.json",
+    "metagenome_small": "metagenome_small.json",
+    "metagenome_large": "metagenome_large.json"
+}
